@@ -2,3 +2,6 @@
 *.pyc
 *.swp
 *~
+bin/
+eggs/
+.installed.cfg
