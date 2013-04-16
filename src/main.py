@@ -20,5 +20,5 @@ def create():
 	minoru_str = write_minoru(image)
 	return render_template('create.html', minoru_str=minoru_str)
 
-if __name__ == '__main__':
-	app.run(debug=True)
+def main():
+	app.run(debug=False)

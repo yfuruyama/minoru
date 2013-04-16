@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from PIL import Image, ImageDraw, ImageFont
+import Image, ImageDraw, ImageFont
 import StringIO
 
 IMAGE_WIDTH = 260
